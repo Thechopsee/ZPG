@@ -1,0 +1,47 @@
+﻿  Aplikace.cpp
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\tree.h(92818,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\sphere.h(2886,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\suzi_smooth.h(2911,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\gift.h(66629,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\bushes.h(9040,1): warning C4305: inicializování: zkrácení z: double na: const float
+  ObjectFactory.cpp
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\tree.h(92818,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\sphere.h(2886,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\suzi_smooth.h(2911,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\gift.h(66629,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\bushes.h(9040,1): warning C4305: inicializování: zkrácení z: double na: const float
+  Scene.cpp
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\tree.h(92818,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\sphere.h(2886,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\suzi_smooth.h(2911,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\gift.h(66629,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\bushes.h(9040,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\Scene.cpp(148,14): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+  ShaderFactory.cpp
+  Window.cpp
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\tree.h(92818,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\sphere.h(2886,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\suzi_smooth.h(2911,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\gift.h(66629,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\bushes.h(9040,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\Window.cpp(56,63): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\Window.cpp(56,57): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+  main.cpp
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\tree.h(92818,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\sphere.h(2886,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\suzi_smooth.h(2911,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\gift.h(66629,1): warning C4305: inicializování: zkrácení z: double na: const float
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\bushes.h(9040,1): warning C4305: inicializování: zkrácení z: double na: const float
+  Generování kódu...
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\ShaderFactory.cpp(24): warning C4715: ShaderFactory::makeShader: ne všechny cesty k ovládacím prvkům vrací hodnotu
+C:\Users\sebas\Desktop\ZSUPokus2\ZSUPokus2\ObjectFactory.cpp(95): warning C4715: ObjectFactory::createObject: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  SOIL.lib(SOIL.obj) : Našel se modul .net MSIL nebo modul zkompilovaný pomocí /GL. Propojení se restartuje s parametrem /LTCG. Výkon linkeru můžete zlepšit přidáním parametru /LTCG na příkazový řádek propojení.
+LINK : warning LNK4075: /INCREMENTAL se ignoruje kvůli specifikaci /LTCG.
+LINK : warning LNK4098: Výchozí knihovna MSVCRT je v konfliktu s použitím jiných knihoven. Použijte /NODEFAULTLIB:library.
+  Vytváří se kód.
+  Vytváření kódu se dokončilo.
+SOIL.lib(SOIL.obj) : warning LNK4099: Soubor .pdb vc110.pdb se nenašel s SOIL.lib(SOIL.obj) nebo na C:\Users\sebas\Desktop\ZSUPokus2\Debug\vc110.pdb. Objekt se propojí, jako by nebyly dostupné žádné ladicí informace.
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: Soubor .pdb vc110.pdb se nenašel s SOIL.lib(stb_image_aug.obj) nebo na C:\Users\sebas\Desktop\ZSUPokus2\Debug\vc110.pdb. Objekt se propojí, jako by nebyly dostupné žádné ladicí informace.
+SOIL.lib(image_helper.obj) : warning LNK4099: Soubor .pdb vc110.pdb se nenašel s SOIL.lib(image_helper.obj) nebo na C:\Users\sebas\Desktop\ZSUPokus2\Debug\vc110.pdb. Objekt se propojí, jako by nebyly dostupné žádné ladicí informace.
+SOIL.lib(image_DXT.obj) : warning LNK4099: Soubor .pdb vc110.pdb se nenašel s SOIL.lib(image_DXT.obj) nebo na C:\Users\sebas\Desktop\ZSUPokus2\Debug\vc110.pdb. Objekt se propojí, jako by nebyly dostupné žádné ladicí informace.
+  ZSUPokus2.vcxproj -> C:\Users\sebas\Desktop\ZSUPokus2\Debug\ZSUPokus2.exe
